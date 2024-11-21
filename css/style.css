@@ -1,6 +1,21 @@
-h3{
-    font-family: 'Courier New', Courier, monospace;
-    background-color: rgb(0, 0, 0);
-    color:black;
-    font-weight: 500;
+.text_right{
+    text-align:right;
+}
+.text_overline{
+    text-decoration: overline;
+}
+.text_underline{
+    text-decoration: underline;
+}
+.t_decor{
+    text-decoration: underline line-through overline;
+}
+.t_indent{
+    text-indent: 140px;
+}
+.t_word_spacing{
+   word-spacing: 30px; 
+}
+.t_letter_spacing{
+    letter-spacing: 10px;
 }
