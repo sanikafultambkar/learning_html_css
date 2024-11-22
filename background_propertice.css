@@ -1,0 +1,7 @@
+body{
+    background-color: aquamarine;
+    background-image: url("images/boat.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+}
